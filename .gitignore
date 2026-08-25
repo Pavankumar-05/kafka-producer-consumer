@@ -1,0 +1,28 @@
+# Eclipse / IDE
+.metadata/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Other local projects
+KakfaTutorial/
+SpringKafka/
+order-notification/
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.env
+application-local.properties
+application-secret.properties
